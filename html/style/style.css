@@ -1,0 +1,44 @@
+*{
+    color: black;
+    text-decoration: none;
+}
+.header-title {
+           
+    color: rgb(243, 1, 1);
+    text-align: center;
+    
+}
+.header-title strong{
+    background-color: red;
+}
+.bubt-intro .ugc{
+    background-color: red;
+    font-size: large;
+}
+.uni{
+    background-color: yellow;
+}
+.list {
+    width: 100px;
+    background-color: blueviolet;
+    color: rgb(0, 255, 76);
+}
+
+.list-title{
+    text-align: center;
+    width: 100px;
+    background-color: rgb(0, 66, 248);
+    border: 3px solid rgb(255, 0, 0);
+}
+img{
+    height: 120px;
+    width: 150px;
+    margin-left:420px;
+}
+ul{
+  
+    border: 2px solid red;
+    border-radius:20px;
+    text-align: center;
+    
+}
